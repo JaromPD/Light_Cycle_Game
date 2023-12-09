@@ -1,0 +1,14 @@
+../Core/Src/../objects/screen.h:65:2:Screen::Screen(SPI_HandleTypeDef&)	24	static
+../Core/Src/../objects/input.h:16:2:Input::Input(ADC_HandleTypeDef&, ADC_HandleTypeDef&)	24	static
+../Core/Src/main.cpp:91:5:int main()	24	static
+../Core/Src/main.cpp:211:6:void SystemClock_Config()	96	static
+../Core/Src/main.cpp:260:6:void PeriphCommonClock_Config()	144	static
+../Core/Src/main.cpp:286:13:void MX_ADC1_Init()	48	static
+../Core/Src/main.cpp:353:13:void MX_ADC3_Init()	32	static
+../Core/Src/main.cpp:411:13:void MX_SPI1_Init()	8	static
+../Core/Src/main.cpp:451:13:void MX_TIM16_Init()	8	static
+../Core/Src/main.cpp:483:13:void MX_GPIO_Init()	48	static
+../Core/Src/main.cpp:521:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+../Core/Src/main.cpp:542:6:void Error_Handler()	4	static,ignoring_inline_asm
+../Core/Src/main.cpp:550:1:void __static_initialization_and_destruction_0(int, int)	16	static
+../Core/Src/main.cpp:550:1:cpp)	8	static
